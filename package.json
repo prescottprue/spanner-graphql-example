@@ -21,7 +21,7 @@
     "graphql": "^14.5.8",
     "graphql-tag": "^2.10.1",
     "isomorphic-unfetch": "^3.0.0",
-    "next": "^9.1.7",
+    "next": "^11.1.0",
     "next-apollo": "^3.1.10",
     "next-with-apollo": "^4.3.0",
     "react": "^16.12.0",
